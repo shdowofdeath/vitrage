@@ -15,6 +15,7 @@
 
 
 import os
+import sys
 
 from tempest import config
 from tempest.test_discover import plugins
